@@ -1,0 +1,5 @@
+1. Developed a Node.js backend API using Express and MongoDB for a video platform.
+2. Implemented user authentication with JWT and secure password hashing.
+3. Built RESTful routes for video uploads, subscriptions, and user management.
+4. Integrated Cloudinary for media storage and Multer for file uploads.
+5. Structured the codebase with controllers, models, middleware, and reusable utility modules
