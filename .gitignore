@@ -119,6 +119,6 @@ dist
 .pnp.*
 
 # Resume files
-.text
+.txt
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node
